@@ -42,7 +42,7 @@ const Slider = ({ slides }) => {
                 <Image
                   src={slide.image}
                   alt='/'
-                  width='1440'
+                  width='2000'
                   height='600'
                   objectFit='cover'
                 />
