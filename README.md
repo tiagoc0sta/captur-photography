@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Photography WebApp
 
-## Getting Started
+Technologies used:
 
-First, run the development server:
+- HTML
+- CSS
+- JS
+- Tailwind CSS
+- NextJS
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Acknowledgements
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- To run:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- yarn dev / yarn build
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Authors
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [ CodeCommerce - link here ](https://www.youtube.com/watch?v=HVyct9EUNP8&t=83s)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Demo
 
-## Learn More
+- [Online app (Netlify) - click here](https://rad-blancmange-7b05fa.netlify.app/)
 
-To learn more about Next.js, take a look at the following resources:
+## Web App
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://user-images.githubusercontent.com/63982700/210298004-212c5bdb-f69a-42a1-93b9-ff9156ab01c1.png)
+![image](https://user-images.githubusercontent.com/63982700/210298035-46cf1a47-02f0-4f5f-bb8a-a8b17c9076ce.png)
+![image](https://user-images.githubusercontent.com/63982700/210298056-f12dd096-12fd-4912-b945-f437e0741e79.png)
+![image](https://user-images.githubusercontent.com/63982700/210298076-eb0bde21-1d5b-4fbe-9954-533a0e956932.png)
+![image](https://user-images.githubusercontent.com/63982700/210298097-00b1686d-9eef-4db6-9f03-d9cf3ee31596.png)
+![image](https://user-images.githubusercontent.com/63982700/210298121-b91fb208-9e18-4aa5-8ac9-2509b6634a0c.png)
+![image](https://user-images.githubusercontent.com/63982700/210298130-cca93ca2-a301-4521-8959-8f93613d1a90.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Mobile
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://user-images.githubusercontent.com/63982700/210298154-8c83f9f3-084c-4db2-9ccb-c5767f19810e.png)
+![image](https://user-images.githubusercontent.com/63982700/210298167-327da748-1c39-47d1-8386-88e9a67fccce.png)
+![image](https://user-images.githubusercontent.com/63982700/210298185-37a5cb44-117a-4f22-b6da-4c95a4821317.png)
+![image](https://user-images.githubusercontent.com/63982700/210298201-86d1e862-fdb5-4475-a643-79cc3ecc1d50.png)
